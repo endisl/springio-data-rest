@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DatarestreactApplication {
+public class DataRestReactApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DatarestreactApplication.class, args);
+		SpringApplication.run(DataRestReactApplication.class, args);
 	}
 
 }
